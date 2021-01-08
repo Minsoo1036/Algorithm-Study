@@ -11,7 +11,7 @@ def solution1(x):
     if x<=1:
         answer=x
     else:
-        answer=solution(x-1)+solution(x-2)
+        answer=solution1(x-1)+solution1(x-2)
         
     return answer
 
