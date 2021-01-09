@@ -1,10 +1,10 @@
 # Algorithm
 
 
-algorithm1 : make sorted array
+algorithm1 : Make sorted array
 
-algorithm2 : find indexs of specific value in array
+algorithm2 : Find indexs of specific value in array
 
-algorithm3 : array binary search
+algorithm3 : Array Binary Search
 
-algorithm4 : Fibonacci Sequence (3 method)
+algorithm4 : Fibonacci Sequence (3 methods)
