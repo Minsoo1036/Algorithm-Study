@@ -98,7 +98,3 @@ class LinkedList:
             result.append(curr.data)
             curr = curr.next
         return result
-
-
-def solution(x):
-    return 0
