@@ -119,7 +119,3 @@ class DoublyLinkedList:
         del head
         self.nodeCount+=L.nodeCount
         self.tail=L.tail
-
-
-def solution(x):
-    return 0
