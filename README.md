@@ -18,3 +18,7 @@ algorithm7 : LinkedList
 algorithm8 : Dummy(head) Linkded List
 
 algorithm9 : Doubly Linked List
+
+algorithm10 : Parenthesis matching
+
+algorithm11 : Postfix notation
