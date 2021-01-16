@@ -16,3 +16,5 @@ algorithm6 : Move Hanoi!
 algorithm7 : LinkedList
 
 algorithm8 : Dummy(head) Linkded List
+
+algorithm9 : Doubly Linked List
