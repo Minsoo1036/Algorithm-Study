@@ -14,3 +14,5 @@ algorithm5 : Binary Search (example of recursive algorithm)
 algorithm6 : Move Hanoi!
 
 algorithm7 : LinkedList
+
+algorithm8 : Dummy(head) Linkded List
