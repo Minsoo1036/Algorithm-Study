@@ -76,6 +76,3 @@ class LinkedList:
             Node=self.getAt(pos-1)
             val=self.popAfter(Node)
             return val
-
-def solution(x):
-    return 0
