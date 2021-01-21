@@ -22,3 +22,7 @@ algorithm9 : Doubly Linked List
 algorithm10 : Parenthesis matching
 
 algorithm11 : Postfix notation
+
+algorithm12 : Infix notation evaluation
+
+algorithm13 : Queue by Doubly Liked List
