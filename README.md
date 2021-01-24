@@ -30,3 +30,7 @@ algorithm13 : Queue by Doubly Liked List
 algorithm14 : Circular Queue
 
 algorithm15 : Priority Queue
+
+algorithm16 : Binary Tree
+
+algorithm17 : Binary Tree traversal
