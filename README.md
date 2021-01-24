@@ -33,4 +33,4 @@ algorithm15 : Priority Queue
 
 algorithm16 : Binary Tree
 
-algorithm17 : Binary Tree traversal
+algorithm17 : Binary Tree Depth First Traversal
