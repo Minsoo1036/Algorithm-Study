@@ -1,4 +1,4 @@
-# Algorithm
+# Algorithm Study
 
 
 algorithm1 : Make sorted array
