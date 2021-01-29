@@ -34,3 +34,7 @@ algorithm15 : Priority Queue
 algorithm16 : Binary Tree
 
 algorithm17 : Binary Tree Depth First Traversal
+
+algorithm18 : Binary Tree Breadth First Traversal
+
+algorithm19 : Binary Search Tree - insertion
