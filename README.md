@@ -38,3 +38,7 @@ algorithm17 : Binary Tree Depth First Traversal
 algorithm18 : Binary Tree Breadth First Traversal
 
 algorithm19 : Binary Search Tree - insertion
+
+algorithm20 : Binary Search Tree - deletion
+
+algorithm21 : MaxHeap by array
