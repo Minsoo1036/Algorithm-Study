@@ -6,7 +6,7 @@ Binary Search (example of recursive algorithm)
 
 @author: pc
 """
-
+print("test")
 def solution(L, x, l, u):
     if l>u: 
         return -1
@@ -16,7 +16,7 @@ def solution(L, x, l, u):
     elif x < L[mid]:
         return solution(L,x,l,mid-1)
     else:
-        return solution(L,x,mid+1,u)
+        return solution(L,x,mid+1,u) #testing!!
 
 
 if __name__=="__main__":
