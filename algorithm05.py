@@ -6,7 +6,6 @@ Binary Search (example of recursive algorithm)
 
 @author: pc
 """
-print("test")
 def solution(L, x, l, u):
     if l>u: 
         return -1
